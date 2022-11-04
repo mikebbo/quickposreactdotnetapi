@@ -1,0 +1,12 @@
+Item
+Item Name
+Qty
+Price
+ExPrice
+
+
+
+To.Of Items Sold
+Total Qty Sold
+Tax 
+Total
