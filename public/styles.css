@@ -1,0 +1,11 @@
+
+.appheader {
+    max-width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    display:block;
+     
+}
